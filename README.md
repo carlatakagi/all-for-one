@@ -39,7 +39,7 @@ Tabela de conteúdos
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
--   **[MySQL]((https://www.mysql.com/)**
+-   **[MySQL](https://www.mysql.com/)**
 
 ---
 ## 🚀 Como executar o projeto
