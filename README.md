@@ -24,8 +24,8 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto
 
-   Aplicação desenvolvida pela [Trybe](https://www.betrybe.com/), com intuito de verificar conhecimentos em Docker.
-   Apenas os comandos de Docker foram realizados pela autora.
+   Aplicação desenvolvida pela [Trybe](https://www.betrybe.com/), com intuito de verificar conhecimentos em MySQL.
+   Apenas os comandos de MySQL foram realizados pela autora.
 
 ---
 
@@ -39,7 +39,7 @@ Tabela de conteúdos
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
--   **[Docker](https://www.docker.com/)**
+-   **[MySQL]((https://www.mysql.com/)**
 
 ---
 ## 🚀 Como executar o projeto
@@ -48,7 +48,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ```bash
 
 # Clone este repositório em seu terminal
-$ git clone git@github.com:carlatakagi/docker-todo-list.git
+$ git clone git@github.com:carlatakagi/all-for-one.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd docker-todo-list
